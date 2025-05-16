@@ -279,7 +279,9 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 📆 Year: <a href={url}/releaseinfo>{year}</a>
 🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
 📀 RunTime: {runtime} Minutes
+
 all movies groups and channel👉 https://t.me/addlist/UNNBO0cOJbMyMGFl
+
 ⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
 Requested by : {message.from_user.mention}</b>"""
     
